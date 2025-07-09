@@ -33,6 +33,4 @@ This project demonstrates:
 - **CSS3** for custom styling
 - **Vite** for fast development build
 
----
 
-*A simple yet powerful weather app showcasing modern React development with Material-UI integration.*
